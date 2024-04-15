@@ -7,10 +7,11 @@ Welcome to the Sermatec community organization. Here you can find open-source pr
 - [API protocol (OSIM) docs (TBA)](https://github.com/sermatec-opensource/osim-docs)
 ### SW projects
 - [Network API Python script](https://github.com/sermatec-opensource/sermatec-inverter)
+- [Home Assistant integration](https://github.com/sermatec-opensource/homeassistant-sermatec-inverter)
 - [Proxy](https://github.com/sermatec-opensource/Sermatec-Inverter-Proxy)
-
-## Credits
-Organization icon by [kerismaker - Flaticon](https://www.flaticon.com/free-icons/solar-panel).
 
 ## Disclaimer
 We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with Sermatec. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
+
+## Credits
+Organization icon by [kerismaker - Flaticon](https://www.flaticon.com/free-icons/solar-panel).
