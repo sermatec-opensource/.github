@@ -4,7 +4,6 @@ Welcome to the Sermatec community organization. Here you can find open-source pr
 ## Index
 ### Documentation & Info
 - [General documentation](https://github.com/sermatec-opensource/docs)
-- [API protocol (OSIM) docs (TBA)](https://github.com/sermatec-opensource/osim-docs)
 ### SW projects
 - [Network API Python script](https://github.com/sermatec-opensource/sermatec-inverter)
 - [Home Assistant integration](https://github.com/sermatec-opensource/homeassistant-sermatec-inverter)
